@@ -2,7 +2,7 @@
 
 # Django App
 
-This repository contains a simple Django app as part of the **Deploying a Production ready Django App on EC2 with CI/CD** gist tutorial which you can find [here](https://gist.github.com/rmiyazaki6499/92a7dc283e160333defbae97447c5a83)
+This repository contains a simple Django app as part of the **Deploying a Production ready Django App on EC2 with CI/CD** gist tutorial which you can find [here](https://gist.github.com/sanjayakkidasari/92a7dc283e160333defbae97447c5a83)
 
 ## Table of Contents
 
@@ -73,8 +73,7 @@ docker-compose version 1.26.2, build eefe0d31
 - Clone the repo to your local machine:
 
 ```
-$ git clone https://github.com/rmiyazaki6499/django-app.git
-```
+https://github.com/sanjayakkidasari/django-app.git```
 
 - Go into the project directory to build and run the container with:
 
@@ -115,7 +114,7 @@ If you either did not want to use Docker or was curious to build the `django-app
 - On your terminal and clone the repository with Git:
 
 ```
-$ git clone https://github.com/rmiyazaki6499/django-app.git
+https://github.com/sanjayakkidasari/django-app.git
 ```
 
 - Next, go into the project directory and make sure you create a virtual environment for your project by either using venv or pipenv:
